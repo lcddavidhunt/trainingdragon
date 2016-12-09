@@ -1,0 +1,6 @@
+file.ext
+# this is a folder
+logs/
+
+#using wildcards
+*.log
